@@ -1,4 +1,3 @@
-Hi 👋 My name is Eduardo Fortuna
 ================================
 
 Web Developer
