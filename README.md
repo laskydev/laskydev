@@ -4,7 +4,6 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Tamaulipas, México
-* ✉️  You can contact me at [eduardofortuna99@gmail.com](mailto:eduardofortuna99@gmail.com)
 * 🧠  I'm learning Nest.js, Node.js, Express.js
 * 🤝  I'm open to collaborating on interesting projects
 
